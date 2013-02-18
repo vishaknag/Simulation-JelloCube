@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "599 Jello Cube", "599 Jello Cube\599 Jello Cube.vcproj", "{236D892F-71D0-445F-B304-7D1162ABCB9B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "599 Create World", "599 Create World\599 Create World.vcproj", "{7805D6F4-3B83-4AC1-B6C5-506B6E54C063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236D892F-71D0-445F-B304-7D1162ABCB9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{236D892F-71D0-445F-B304-7D1162ABCB9B}.Debug|Win32.Build.0 = Debug|Win32
+		{236D892F-71D0-445F-B304-7D1162ABCB9B}.Release|Win32.ActiveCfg = Release|Win32
+		{236D892F-71D0-445F-B304-7D1162ABCB9B}.Release|Win32.Build.0 = Release|Win32
+		{7805D6F4-3B83-4AC1-B6C5-506B6E54C063}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7805D6F4-3B83-4AC1-B6C5-506B6E54C063}.Debug|Win32.Build.0 = Debug|Win32
+		{7805D6F4-3B83-4AC1-B6C5-506B6E54C063}.Release|Win32.ActiveCfg = Release|Win32
+		{7805D6F4-3B83-4AC1-B6C5-506B6E54C063}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
